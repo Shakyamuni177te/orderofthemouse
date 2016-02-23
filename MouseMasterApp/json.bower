@@ -1,0 +1,32 @@
+{
+  "name": "MouseMasterApp",
+  "description": "A web-based RPG.",
+  "main": "index.html",
+  "authors": [
+    "Shakyamuni177te <peter.carter.mail@gmail.com>"
+  ],
+  "license": "Shakyamuni77te Private Enterprise License (non-commercial use ok)",
+  "keywords": [
+    "The",
+    "Order",
+    "of",
+    "the",
+    "Mouse",
+    "Dragon-Bear",
+    "Deer-Wolf",
+    "Clown-Fox"
+  ],
+  "moduleType": [],
+  "homepage": "www.orderofthemouse.co.uk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
