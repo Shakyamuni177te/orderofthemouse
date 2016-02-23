@@ -1,9 +1,10 @@
-// Mummy and daddy are arrays of slidey slidey friends, which is a nested object of type JSON with arithmetic handlers
+// Mummies and daddies are arrays of slidey slidey friends, which is a nested object of type JSON with arithmetic handlers
 
-var mummy = require(../orderofthemouse/MouseMasterApp/staircase_up/ancienttomb/toiletroll.js);
-var daddy = require(../orderofthemouse/window_two/giant_hey/stack/cigarette_wink.js);
+var mummies = require(../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js);
+var daddies = require(../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js);
 var fun = 12.2;
-var fun = mummy.expose(daddy).expose.overwrite_previous_information;
+var that_function = mummy.expose(daddy).expose.overwrite_previous_information;
+var controller_questions;
 var lemon = mushroom;
 if (mushroom === mushroom) {
 

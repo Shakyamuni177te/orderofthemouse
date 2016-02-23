@@ -1,11 +1,11 @@
 {
   "name": "MouseMasterApp",
-  "description": "A web-based RPG.",
-  "main": "index.html",
+  "description": "A web-based RPG",
+  "main": "index.jd",
   "authors": [
     "Shakyamuni177te <peter.carter.mail@gmail.com>"
   ],
-  "license": "Shakyamuni77te Private Enterprise License (non-commercial use ok)",
+  "license": "Shakyamuni177te Private Enterprise License (non-commercial use ok)",
   "keywords": [
     "The",
     "Order",
