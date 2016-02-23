@@ -1,4 +1,4 @@
-// Mummies and daddies are arrays of slidey slidey friends, which is a nested object of type JSON with arithmetic handlers
+// Mummies and daddies are arrays of slidey slidey friends, which are a nested object of type JSON with arithmetic handlers
 
 var mummies = require(../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js);
 var daddies = require(../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js);
