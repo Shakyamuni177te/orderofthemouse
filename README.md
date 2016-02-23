@@ -1,2 +1,4 @@
 # orderofthemouse
-I'm on muh lunch so it's ok to do personal project stuff :)
+Order of the Mouse. Phase 2.
+
+Begins in earnest tomorrow...
