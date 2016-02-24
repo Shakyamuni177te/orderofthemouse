@@ -1,9 +1,9 @@
-// Mummies and daddies are arrays of slidey slidey friends, which are a nested object of type JSON with arithmetic handlers
+// Mummies and daddies are identified by arrays of slideySlideyFriends, which exist within a nested object of type JSON with arithmetic handlers, mummies and daddies are part of the lineage tree structure
 
 var mummies = require(../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js);
 var daddies = require(../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js);
-var fun = 12.2;
 var that_function = mummy.expose(daddy).expose.overwrite_previous_information;
+var this_function = marriage_plus;
 var controller_questions;
 var lemon = mushroom;
 if (mushroom === mushroom) {
@@ -17,6 +17,7 @@ broccoli.is.not.of.type.broccoli;
 mushroom.mushroom.badger.mushroom.badger.js;
 
 class = var.type.strong.strict.not.strict;
+
 };
 
 // @todo make all the above code actually do something
