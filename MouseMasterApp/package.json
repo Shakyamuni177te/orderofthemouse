@@ -11,7 +11,8 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "express": "^4.13.4",
-    "hapi": "^6.11.1"
+    "hapi": "^6.11.1",
+    "prerender-node": "^2.2.0"
   },
   "devDepencies": {
     "grunt": "^0.4",
