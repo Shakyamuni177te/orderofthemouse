@@ -1,22 +1,24 @@
-// Mummy and daddy are arrays of type slidey slidey friends, which is a nested object of type JSON with arithmetic handlers
+// Mummies and daddies are arrays of slidey slidey friends, which are a nested object of type JSON with arithmetic handlers
 
-var mummy = require(./ancienttomb/toiletroll.js);
-var daddy = require(./gianthaystacks/cigarette_wink.js);
-var fun = 0;
-var fun = mummy.expose(daddy);
+var mummies = require(../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js);
+var daddies = require(../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js);
+var fun = 12.2;
+var that_function = mummy.expose(daddy).expose.overwrite_previous_information;
+var controller_questions;
 var lemon = mushroom;
-var mushroom != mushroom;
+if (mushroom === mushroom) {
 
 mushroom.extend(define.small{{method}}.ovulation.cycle.horse.fish.ing);
 
-mushroom.is.of.type.brocolli
+mushroom.is.of.type.broccoli;
 
-brocolli.is.not.of.type.brocolli
+broccoli.is.not.of.type.broccoli;
 
-mushroom.mushroom.badger.mushroom
+mushroom.mushroom.badger.mushroom.badger.js;
 
-class = var.type.strong.strict.not.strict
+class = var.type.strong.strict.not.strict;
+};
 
 // @todo make all the above code actually do something
 
-// WARNING: THIS IS NOT A BOWER FILE DO NOT USE BOWER ON IT AS SOMETHING WILL HAPPEN BUT I'M NOT SURE WHAT IT IS PROBABLY YOU'LL SEE AN ERROR SCREEN OR SOMETHING WHICH MIGHT BE BORING OR INTERESTING DEPENDING ON WHETHER YOU LIKE ERROR SCEENS OR NOT
+// WARNING: THIS IS NOT A BOWSER FILE; DO NOT USE BOWER ON IT AS SOMETHING WILL HAPPEN BUT I'M NOT SURE WHAT IT IS PROBABLY YOU'LL SEE AN ERROR SCREEN OR SOMETHING WHICH MIGHT BE BORING OR INTERESTING DEPENDING ON WHETHER YOU LIKE ERROR SCEENS OR NOT
