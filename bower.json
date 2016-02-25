@@ -1,9 +1,9 @@
 // Mummies and daddies are arrays of slidey slidey friends, which are a nested object of type JSON with arithmetic handlers
 
 var var metatron = require('metatron');
-var metatron = require(require);
-var mummies = require(../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js);
-var daddies = require(../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js);
+var metatron = require('http://requirejs.org/docs/release/2.1.22/comments/require.js');
+var mummies = require('../orderofthemouse/MouseMasterApp/MouseMasterApp/staircase_up/up/ancienttomb/toiletroll.js');
+var daddies = require(''../orderofthemouse/MouseMasterApp/window_two/giant_hey/stack/cigarette_wink.js');
 var fun = 12.2;
 var that_function = mummy.expose(daddy).expose.overwrite_previous_information;
 var controller_questions;
